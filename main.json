@@ -151,6 +151,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Leertaste dr\u00fccken um Seite zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -174,6 +179,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Leertaste dr\u00fccken um Seite zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -197,6 +207,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Leertaste dr\u00fccken um Seite zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -238,6 +253,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Leertaste dr\u00fccken um an der Gespr\u00e4chsrunde teilzunehmen"
                 }],
          "type":"tilelayer",
          "visible":true,
