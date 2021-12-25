@@ -146,6 +146,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.koksa.org\/Hauptseite"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -164,6 +169,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/blog.ssdev.org\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -182,6 +192,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/blog.ssdev.org\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -199,7 +214,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/mp3\/spaceship.mp3"
+                 "value":"mp3\/spaceship.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -218,6 +233,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared_ssdev"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
