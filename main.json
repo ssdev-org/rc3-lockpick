@@ -475,6 +475,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -488,6 +494,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-colors-128",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -501,6 +513,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -514,6 +532,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"dk_transports",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -616,6 +640,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -629,6 +659,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"rc3_style_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
@@ -642,6 +678,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"08_right_mate_bottles_flora_full",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -655,6 +697,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"pipoya"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
@@ -668,6 +716,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -710,6 +764,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -812,6 +872,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"official_rockets",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":80,
          "tileheight":32,
@@ -825,6 +891,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -838,6 +910,12 @@
          "imagewidth":1056,
          "margin":0,
          "name":"text",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
@@ -900,6 +978,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -923,6 +1007,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"Picksets",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Jascha, SSDeV"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -936,6 +1026,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"Uebungsschloesser",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Jascha, SSDeV"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -949,6 +1045,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"Bodenlogo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Jascha, SSDeV"
+                }],
          "spacing":0,
          "tilecount":400,
          "tileheight":32,
@@ -962,6 +1064,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"SSDevogos",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Jascha, SSDeV"
+                }],
          "spacing":0,
          "tilecount":54,
          "tileheight":32,
@@ -1168,6 +1276,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"SSDeVWimpel",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Jascha, SSDeV"
+                }],
          "spacing":0,
          "tilecount":21,
          "tileheight":32,
@@ -1294,6 +1408,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"c-base-inventory",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"c-base"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1307,6 +1427,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"c-base-logo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"c-base"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
