@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/maps\/hardware-making.json#start_c3lock"
+                 "value":"world:\/\/lobby\/punchcard.json#start_lockpick"
                 }],
          "type":"tilelayer",
          "visible":true,
