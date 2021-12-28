@@ -169,6 +169,11 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"audioCopyright",
+         "type":"string",
+         "value":"spaceship.mp3 by BurghRecords"
+        }, 
+        {
          "name":"mapCopyright",
          "type":"string",
          "value":"Sven, SSDeV"
