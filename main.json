@@ -227,6 +227,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioCopyright",
+                 "type":"string",
+                 "value":"spaceship.mp3 by BurghRecords (https:\/\/freesound.org\/people\/BurghRecords\/sounds\/415673\/)"
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"mp3\/spaceship.mp3"
