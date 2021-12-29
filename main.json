@@ -1533,6 +1533,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"Testbild",
+         "properties":[
+                {
+                 "name":"mapCopyright",
+                 "type":"string",
+                 "value":"Jascha, SSDeV"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -1555,13 +1561,7 @@
                          "duration":200,
                          "tileid":3
                         }],
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"Jascha, SSDeV"
-                        }]
+                 "id":0
                 }, 
                 {
                  "animation":[
