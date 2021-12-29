@@ -71,6 +71,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioCopyright",
+                 "type":"string",
+                 "value":"spaceship.mp3 by BurghRecords"
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"mp3\/spaceship.mp3"
@@ -169,14 +174,9 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"audioCopyright",
-         "type":"string",
-         "value":"spaceship.mp3 by BurghRecords"
-        }, 
-        {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Sven, SSDeV"
+         "value":"slacc, SSDeV"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",

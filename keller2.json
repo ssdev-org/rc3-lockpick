@@ -71,6 +71,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioCopyright",
+                 "type":"string",
+                 "value":"spaceship.mp3 by BurghRecords"
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"mp3\/spaceship.mp3"
@@ -159,7 +164,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Sven, SSDeV"
+         "value":"slacc, SSDeV"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
@@ -177,7 +182,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"Pipoya"
+                 "value":"Kachelsatz \"cija_32x32_expansion for Pipoya_CC0\" von Pipoya"
                 }],
          "spacing":0,
          "tilecount":1920,
@@ -196,7 +201,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"cert.ccc.de unter CC-BY-SA"
+                 "value":"CC0"
                 }],
          "spacing":0,
          "tilecount":9,
@@ -225,7 +230,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"Pipoya"
+                 "value":"Kachelsatz \"Water_pipo\"von Pipoya"
                 }],
          "spacing":0,
          "tilecount":3072,
@@ -244,7 +249,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"Pipoya"
+                 "value":"Kachelsatz \"Dirt_pipo\" von Pipoya"
                 }],
          "spacing":0,
          "tilecount":336,
