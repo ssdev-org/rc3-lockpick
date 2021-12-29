@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/visit.rc3.world\/@\/rc3_21\/muccc\/main.json#entrySSDeV"
+                 "value":"world:\/\/muccc\/main.json#entrySSDeV"
                 }],
          "type":"tilelayer",
          "visible":true,
