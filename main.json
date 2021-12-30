@@ -255,7 +255,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Leertaste dr\u00fccken f\u00fct Informationen \u00fcber unseren Treffpunkt c-base"
+                 "value":"Leertaste dr\u00fccken f\u00fcr Informationen \u00fcber unseren Treffpunkt c-base"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -283,7 +283,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Leertaste dr\u00fccken f\u00fct Informationen \u00fcber unseren Treffpunkt \u00b5C\u00b3"
+                 "value":"Leertaste dr\u00fccken f\u00fcr Informationen \u00fcber unseren Treffpunkt \u00b5C\u00b3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -311,7 +311,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Leertaste dr\u00fccken f\u00fct Informationen \u00fcber unseren Treffpunkt C4"
+                 "value":"Leertaste dr\u00fccken f\u00fcr Informationen \u00fcber unseren Treffpunkt C4"
                 }],
          "type":"tilelayer",
          "visible":true,
